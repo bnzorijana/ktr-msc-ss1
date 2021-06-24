@@ -1,0 +1,16 @@
+package fr.bavon.Char;
+
+public class Example extends Character {
+
+	public Example(String name, String RPGClass, int life, int agility, int strength, int wit) {
+		super(name, RPGClass, life, agility, strength, wit);
+		// TODO Auto-generated constructor stub
+	}
+
+	@Override
+	public void doAction() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

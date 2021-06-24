@@ -1,0 +1,5 @@
+package fr.bavon.move;
+
+public interface Movable {
+
+}

@@ -1,0 +1,12 @@
+package fr.bavon.Char;
+
+public class TestCharacter extends Character {
+
+	public TestCharacter(String name, String RPGClass, int life, int agility, int strength, int wit) {
+		super(name, RPGClass, life, agility, strength, wit);
+		// TODO Auto-generated constructor stub
+	}
+
+	
+
+}

@@ -1,0 +1,5 @@
+package fr.bavon.carac;
+
+public abstract class caractere {
+
+}

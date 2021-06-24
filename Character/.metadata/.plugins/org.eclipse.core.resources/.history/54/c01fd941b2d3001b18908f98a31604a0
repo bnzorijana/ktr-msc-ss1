@@ -1,0 +1,8 @@
+
+public class Button extends Character {
+
+	public Button() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

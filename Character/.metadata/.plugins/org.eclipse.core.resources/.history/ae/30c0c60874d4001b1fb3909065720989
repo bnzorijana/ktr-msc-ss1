@@ -1,0 +1,13 @@
+package fr.bavon.War;
+
+public class Main {
+
+	public static void main(String[] args) {
+		Warrior bavon=new Warrior("Luc");
+		Mage kevin= new Mage("Robert");
+		bavon.attack("un 9mm");
+		kevin.attack("magic");
+
+	}
+
+}

@@ -1,0 +1,12 @@
+package fr.corey.variable;
+
+public class myVariable {
+	public static void main(String[]args) {
+		System.out.println("Bonjour!Abonne-toi");
+		int savings =3000;
+		savings=+1000;
+		System.out.println("Your amount is:" + savings);
+	}
+}
+
+

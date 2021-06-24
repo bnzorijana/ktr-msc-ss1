@@ -1,0 +1,43 @@
+package fr.bavon.Char;
+
+public abstract class Character {
+	private String name;
+	final private String RPGClass;
+	private int life;
+	private int agility;
+	private int strength;
+	private int wit;
+	public Character(String name) {
+		this.name=name;
+		this.RPGClass="Char";
+		this.life=50;
+		this.agility=2;
+		this.strength=2;
+		this.wit=2;
+	}
+	public String getName() {
+		return name;
+	}
+	public String getRPGClass() {
+		return RPGClass;
+	}
+	public int getlife() {
+		return life;
+	}
+	public int getagility() {
+		return agility;
+	}
+	public int getstrength() {
+		return strength;
+	
+	}
+	public int getwit() {
+		return wit;
+	}
+	public void setName(String name) {
+		this.name=name;
+	}
+	abstract public String attack();
+}
+
+

@@ -1,0 +1,12 @@
+package fr.bavon.War;
+
+public class Mage extends Character {
+	pub
+
+	@Override
+	public void attack(String str) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

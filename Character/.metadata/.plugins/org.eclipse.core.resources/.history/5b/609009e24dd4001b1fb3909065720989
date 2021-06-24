@@ -1,0 +1,10 @@
+package fr.bavon.War;
+import Warrior;
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

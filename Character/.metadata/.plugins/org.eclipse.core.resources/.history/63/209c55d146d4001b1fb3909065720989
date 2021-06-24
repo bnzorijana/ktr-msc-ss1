@@ -1,0 +1,10 @@
+package fr.bavon.Char;
+
+public class Main {
+
+	public static void main(String[] args) {
+		TestCharacter test= new TestCharacter("Bavon");
+		test.attack("Noooo");
+	}
+
+}

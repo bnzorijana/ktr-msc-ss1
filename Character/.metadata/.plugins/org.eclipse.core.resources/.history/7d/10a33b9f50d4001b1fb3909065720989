@@ -1,0 +1,16 @@
+package fr.bavon.War;
+
+public class Mage extends Character {
+
+	public Mage(String name) {
+		super(name);
+		// TODO Auto-generated constructor stub
+	}
+
+	@Override
+	public void attack(String str) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

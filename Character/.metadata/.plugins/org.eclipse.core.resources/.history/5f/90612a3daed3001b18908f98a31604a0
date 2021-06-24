@@ -1,0 +1,5 @@
+package fr.bavon.Char;
+
+public abstract class Character {
+
+}

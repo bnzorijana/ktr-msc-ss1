@@ -1,0 +1,9 @@
+package fr.bavon.war;
+
+public class Warrior extends Character {
+
+	public Warrior() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

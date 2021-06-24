@@ -1,0 +1,33 @@
+package fr.bavon.War;
+
+public class Bouger implements Movable {
+
+	public Bouger() {
+		// TODO Auto-generated constructor stub
+	}
+
+	@Override
+	public void moveRight() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void moveLeft() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void moveForward() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void moveBack() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

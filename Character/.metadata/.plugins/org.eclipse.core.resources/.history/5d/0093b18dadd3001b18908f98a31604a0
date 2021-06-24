@@ -1,0 +1,11 @@
+package fr.bavon.Char;
+
+public class Example {
+
+	public static void main(String[] args) {
+		Character perso = new TestCharacter ("Jean -Luc");
+			
+		
+	}
+
+}

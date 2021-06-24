@@ -1,0 +1,16 @@
+package fr.bavon.Char;
+
+public class TestCharac extends Character {
+
+	public TestCharac(String name) {
+		super(name);
+		// TODO Auto-generated constructor stub
+	}
+
+	@Override
+	public void attack(String str) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
